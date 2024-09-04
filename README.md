@@ -3,7 +3,7 @@
 
 Eu sou <strong>Heloyse</strong>, <strong>atualmente estudando Análise e desenvolvimento de sistemas na faculdade senac Recife Pernambuco</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Python e JavaScript</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Python, JavaScript e MySQL</strong> 
 - 💬 Pergunte-me sobre: <strong>Artesanato, cozinhar e jogar joguinhos de terror</strong>
 - 📣 Nós podemos falar em: <strong>Portugês e um pouco de inglês</strong>
 <div align="center">

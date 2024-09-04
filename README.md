@@ -8,9 +8,9 @@ Eu sou <strong>Heloyse</strong>, <strong>atualmente estudando Análise e desenvo
 - 📣 Nós podemos falar em: <strong>Portugês e um pouco de inglês</strong>
 <div align="center">
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:heloysesantos007@gmail.com"/></a>
+ <a href="mailto:heloysesantos007@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heloyse-silva-003855285/" /></a>
+  <a href="https://www.linkedin.com/in/heloyse-silva-003855285/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 

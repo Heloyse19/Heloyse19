@@ -1,11 +1,12 @@
-<img src="https://media0.giphy.com/media/B1CrvUCoMxhy8/200.gif?cid=6c09b9524rb1amq89p7ux8o73qx1gyuac25ih1vctece4m7q&ep=v1_internal_gif_by_id&rid=200.gif&ct=g">
+<img src="https://i.pinimg.com/originals/3a/8b/03/3a8b036011946ab59ea2a8c353372d2b.gif" width ='80px'> 
+[Heloyse19]
 Olá Mundo 👋
-[Heloyse19] 
 
-Eu sou <strong>Heloyse</strong>, <strong>atualmente estudando Análise e desenvolvimento de sistemas na faculdade senac Recife Pernambuco</strong> 👨🏻‍💻 
+
+Me chamo <strong>Heloyse</strong>, <strong>atualmente estudando Análise e desenvolvimento de sistemas na faculdade Senac Recife Pernambuco</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Python, JavaScript e MySQL</strong> 
-- 💬 Pergunte-me sobre: <strong>Artesanato, cozinhar e jogar joguinhos de terror</strong>
+- 💬 Pergunte-me sobre: <strong>Artesanato, cozinhar e joguinhos de terror</strong>
 - 📣 Nós podemos falar em: <strong>Portugês e um pouco de inglês</strong>
 <div align="center">
 

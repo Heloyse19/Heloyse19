@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/3a/8b/03/3a8b036011946ab59ea2a8c353372d2b.gif" width ='80px'> [Heloyse19]
 
-Olá Mundo 👋
+Olá 👋
 
 
 Me chamo <strong>Heloyse</strong>, <strong>atualmente estudando Análise e desenvolvimento de sistemas na faculdade Senac Recife Pernambuco</strong> 👨🏻‍💻 

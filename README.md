@@ -1,11 +1,11 @@
-<img src="https://i.pinimg.com/originals/3a/8b/03/3a8b036011946ab59ea2a8c353372d2b.gif" width ='80px'> [Heloyse19]
+<img src="https://i.pinimg.com/originals/3a/8b/03/3a8b036011946ab59ea2a8c353372d2b.gif" width ='80px'> <br> [Heloyse19] <br>
 
 Olá 👋
 
 
 Me chamo <strong>Heloyse</strong>, <strong>atualmente estudando Análise e desenvolvimento de sistemas na faculdade Senac Recife Pernambuco</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Python, JavaScript e MySQL</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Python, JavaScript, MySQL, HTML/CSS</strong> 
 - 💬 Pergunte-me sobre: <strong>Artesanato, cozinhar e joguinhos de terror</strong>
 - 📣 Nós podemos falar em: <strong>Portugês e um pouco de inglês</strong>
 <div align="center">

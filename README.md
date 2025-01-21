@@ -3,10 +3,10 @@ Me chamo Heloyse tenho 19 anos e atualmente estou estudando Análise e desenvolv
 - 📣 Nós podemos falar em <strong>Portugês e Inglês</strong> <br>
 - 🌱 Atualmente estou aprendendo <strong>Java<strong> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/> <br>
 
-<img src="https://i.pinimg.com/originals/85/79/2d/85792d1ad216fb39b2b82d56f028e88e.gif" width ='100px'> <br>
+
 
 <div align="center">
-
+<img src="https://i.pinimg.com/originals/85/79/2d/85792d1ad216fb39b2b82d56f028e88e.gif" width ='100px'> <br>
  <a href="mailto:heloysesantos007@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 

@@ -6,7 +6,7 @@ Me chamo Heloyse tenho 19 anos e atualmente estou estudando Análise e desenvolv
 
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/85/79/2d/85792d1ad216fb39b2b82d56f028e88e.gif" width ='100px'> <br>
+<img src="https://i.pinimg.com/originals/85/79/2d/85792d1ad216fb39b2b82d56f028e88e.gif" width ='150px'> <br>
  <a href="mailto:heloysesantos007@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 

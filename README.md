@@ -1,8 +1,7 @@
 Oii 👋 <br>
 Me chamo Heloyse tenho 20 anos e atualmente estou estudando Análise e desenvolvimento de sistemas na faculdade Senac Recife Pernambuco <strong>:)<strong> <br>
 - 📣 Nós podemos falar em <strong>Portugês e Inglês</strong> <br>
-- 🌱 Atualmente aprendendo as linguagens <strong>Java<strong> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/>
-e <strong>JavaScript<strong> <img loading="lazy" src="https://img.icons8.com/fluent/512/javascript.png" width="25" height="25"/> <br> e também algumas tecnologias como SpringBoot e Next JS.
+- 🌱 Sem´re aprendendo algo novo por ai...
 
 
 

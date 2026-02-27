@@ -1,7 +1,7 @@
-Oii 👋 <br>
+Olá 👋 <br>
 Me chamo Heloyse tenho 20 anos e atualmente estou estudando Análise e desenvolvimento de sistemas na faculdade Senac Recife Pernambuco <strong>:)<strong> <br>
-- 📣 Nós podemos falar em <strong>Portugês e Inglês</strong> <br>
-- 🌱 Sem´re aprendendo algo novo por ai...
+
+🌱 Sempre aprendendo algo novo por ai...
 
 
 

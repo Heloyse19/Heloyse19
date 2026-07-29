@@ -1,7 +1,7 @@
-Olá 👋 <br>
-Me chamo Heloyse tenho 20 anos e atualmente estou estudando Análise e desenvolvimento de sistemas na faculdade Senac Recife Pernambuco <strong>:)<strong> <br>
+Oii <br>
+Me chamo Heloyse tenho 21 anos e sou uma desenvolvedora que adora explorar novas tecnologias e desafios! <br>
 
-🌱 Sempre aprendendo algo novo por ai...
+E... minha linguagem de programação favorita é java <strong>:)<strong> <br>
 
 
 

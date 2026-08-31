@@ -1,7 +1,5 @@
-Oii <br>
+Olá <br>
 Me chamo Heloyse tenho 21 anos e sou uma desenvolvedora que adora explorar novas tecnologias e desafios! <br>
-
-E... minha linguagem de programação favorita é java <strong>:)<strong> <br>
 
 
 

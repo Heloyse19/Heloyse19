@@ -1,8 +1,3 @@
-Olá <br>
-Me chamo Heloyse tenho 21 anos e sou uma desenvolvedora que adora explorar novas tecnologias e desafios! <br>
-
-
-
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyNmZvbWEza3l0d2JhN2dxbHY0bmtjOWVxazJ2N3NkczZvNWowN3N0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gx54W1mSpeYMg/200w.gif" width ='150px'> <br>
  <a href="mailto:heloysesantos007@gmail.com" alt="Gmail">
